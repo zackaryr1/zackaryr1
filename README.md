@@ -1,12 +1,12 @@
-<h1>Hey, I'm Zackary! <br/><a href="www.linkedin.com/in/zackary-ramcharam">University of Central Florida Student</a></h1>
+<h1>Hey, I'm Zackary! <br/><a href="https://www.linkedin.com/in/zackary-ramcharam">University of Central Florida Student</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Active Directory Home Lab](google.com)
+- [Active Directory Home Lab](https://github.com/zackaryr1/ActiveDirectory)
 
 <h2>📝 Certifications:</h2>
 
-- [CompTIA Tech+](google.com)
+- [CompTIA Tech+](https://github.com/zackaryr1/CompTIATech)
     
 <h2>📺 Videos</h2>
 
@@ -20,4 +20,4 @@
 
 [youtube]: https://www.youtube.com
 [instagram]: https://www.instagram.com
-[linkedin]: www.linkedin.com/in/zackary-ramcharam
+[linkedin]: https://www.linkedin.com/in/zackary-ramcharam
