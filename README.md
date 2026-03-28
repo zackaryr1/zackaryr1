@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Active Directory Lab](https://github.com/zackaryr1/ActiveDirectory)
+- [Active Directory Lab (AWS)](https://github.com/zackaryr1/ActiveDirectory)
 - [Ticketing System Lab](https://github.com/zackaryr1/TicketingSystem)
 
 <h2>📝 Certifications:</h2>
