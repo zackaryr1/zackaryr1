@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Cloud-Based Active Directory Lab (AWS)](https://github.com/zackaryr1/ActiveDirectory)
+- [Cloud-Based Active Directory Lab (AWS)](https://github.com/zackaryr1/active-directory-aws-lab)
 - [osTicket Help Desk Deployment (Azure)](https://github.com/zackaryr1/osticket-azure-lab)
   
 <h2>📝 Certifications:</h2>
