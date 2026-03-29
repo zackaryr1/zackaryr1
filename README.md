@@ -4,8 +4,7 @@
 
 - [Cloud-Based Active Directory Lab (AWS)](https://github.com/zackaryr1/ActiveDirectory)
 - [osTicket Help Desk Deployment (Azure)](https://github.com/zackaryr1/osticket-azure-lab)
-- [IT Help Desk Ticketing System (Windows)](https://github.com/zackaryr1/TicketingSystem)
-
+  
 <h2>📝 Certifications:</h2>
 
 - [CompTIA Tech+](https://github.com/zackaryr1/CompTIATech)
