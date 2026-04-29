@@ -1,4 +1,4 @@
-<h1>Hey, I'm Zackary! <br/><a href="https://www.linkedin.com/in/zackary-ramcharam">Information Technology graduate, University of Central Florida</a></h1>
+<h1>Hey, I'm Zackary! <br/><a href="https://www.linkedin.com/in/zackary-ramcharam">UCF Graduate in Information Technology</a></h1>
 
 Looking to break into IT help desk, service desk, and desktop support roles. I build hands-on home labs that solve realistic problems end-to-end: provisioning, configuration, hardening, documentation, and structured troubleshooting.
 
